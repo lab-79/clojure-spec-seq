@@ -1,4 +1,4 @@
-(defproject lab79/clojure-spec-seq "0.1.0-SNAPSHOT"
+(defproject lab79/clojure-spec-seq "0.1.0-alpha1"
   :description "Creates a lazy seq of spec paths given a starting root spec."
   :url "https://github.com/lab-79/clojure-spec-seq"
   :license {:name "MIT License"
